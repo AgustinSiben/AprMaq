@@ -1,9 +1,0 @@
-En el ejercicio para pensar del cuarteto de Anscombe, a pesar de que los parámetros estadísticos de los cuatro conjuntos son iguales al realizar el gráfico tienen una forma muy diferente.
-
-La forma en la que determinaría a que dataset corresponde cada uno seria observando esas gráficas. Por ejemplo:
-- El dato [8,6] probablemente pertenezca al conjunto IV que tiene todos los valores concentrados en X=8.
-- El dato [16,8] parece que sigue la recta del grupo I pero distanciado como el resto de puntos de ese conjunto de datos.
-- El dato [16,10] por la misma razón que el anterior podría pertenecer al conjunto I.
-- El dato [16,6] por ser el más bajo y más alejado de la línea de regresión puede pertenecer al conjunto II.
-
-Visualizar los datos nos muestra mejor la tendencia o los lugares más comunes donde estos se concentran y cuando existe algún dato muy distante que perturba los parámetros estadísticos es fácil notarlo.
