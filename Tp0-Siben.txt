@@ -7,3 +7,6 @@ La forma en la que determinaría a que dataset corresponde cada uno seria observ
 - El dato [16,6] por ser el más bajo y más alejado de la línea de regresión puede pertenecer al conjunto II.
 
 Visualizar los datos nos muestra mejor la tendencia o los lugares más comunes donde estos se concentran y cuando existe algún dato muy distante que perturba los parámetros estadísticos es fácil notarlo.
+
+
+
